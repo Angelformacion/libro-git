@@ -1,0 +1,4 @@
+Git es un sistema de control de versiones ideado por Linus Torvalds.cat > capitulos/capitulo1.txt
+[3~[3~[3~[3~[3~	[3~[3~[3~[3~	[3~[3~[3~[3~																																																						[3~[3~[3~[3~[3~[3~[3~[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat > capitulos/capitulo1.txt
+cat > capitulos/capitulo1.txt
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CGit es un sistema de control de versiones ideado por Linus Torvalds.
